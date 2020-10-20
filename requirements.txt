@@ -1,9 +1,0 @@
-
-cython
-numpy
-flask
-pandas
-numpy
-requests
-scikit-learn
-matplotlib
